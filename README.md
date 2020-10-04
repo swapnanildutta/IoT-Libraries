@@ -12,11 +12,11 @@
 
 ## Index
 
-* [About](#about)
-* [Cloning and updating](#cloning-and-updating)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
+  * [About](#about)
+  * [Cloning and updating](#cloning-and-updating)
+  * [Contributing](#contributing)
+  * [License](#license)
+  * [Contact](#contact)
 
 ## About
 
@@ -27,12 +27,12 @@ These libraries can be used, for example, in Arduinos or ESP devices.
 ## Cloning and updating
 
 If you want to clone the repository to your device, just run the following command (ensure you have `git` installed):
-```
+```shell
 $ git clone https://github.com/swapnanildutta/IoT-Libraries
 ```
 
 To update the repo with the newest files, just run these commands
-```
+```shell
 $ cd IoT-Libraries
 $ git pull
 ```
@@ -42,10 +42,10 @@ $ git pull
 Contributions are **highly appreciated**! You can take a look at the [issues](https://github.com/swapnanildutta/IoT-Projects/issues) page to know if there is something needed.
 Otherwise, you can submit a pull request by doing these steps:
 
-1. Fork the project
-3. Commit your changes (`git commit -m 'Added some libraries'`)
-4. Push (`git push origin master`)
-5. Open a pull request
+ 1. Fork the project
+ 2. Commit your changes (`git commit -m 'Added some libraries'`)
+ 3. Push (`git push origin master`)
+ 4. Open a pull request
 
 ## License
 
@@ -53,6 +53,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Swapnanil Dutta - [@swapnanildutta1](https://twitter.com/swapnanildutta1) - swapnanildutta2000@gmail.com
+Swapnanil Dutta - [@swapnanildutta1](<https://twitter.com/swapnanildutta1>) - swapnanildutta2000@gmail.com
 
 Project Link: [https://github.com/swapnanildutta1/IoT-Projects](https://github.com/swapnanildutta1/IoT-Projects)
