@@ -17,29 +17,26 @@ all.
 Examples of behavior that contributes to creating a positive environment
 include:
 
-* Be kind and courteous to others
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Collaborating with other community members
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+  * Be kind and courteous to others
+  * Using welcoming and inclusive language
+  * Being respectful of differing viewpoints and experiences
+  * Collaborating with other community members
+  * Gracefully accepting constructive criticism
+  * Focusing on what is best for the community
+  * Showing empathy towards other community members
 
 Examples of unacceptable behavior by participants include:
 
-* The use of sexualized language or imagery and sexual attention or advances
-* The use of inappropriate images, including in a community member's avatar
-* The use of inappropriate language, including in a community member's nickname
-* Any spamming, flaming, baiting or other attention-stealing behavior
-* Excessive or unwelcome helping; answering outside the scope of the question
-  asked
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Promoting or spreading disinformation, lies, or conspiracy theories against
-  a person, group, organisation, project, or community
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic
-  address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate
+  * The use of sexualized language or imagery and sexual attention or advances
+  * The use of inappropriate images, including in a community member's avatar
+  * The use of inappropriate language, including in a community member's nickname
+  * Any spamming, flaming, baiting or other attention-stealing behavior
+  * Excessive or unwelcome helping; answering outside the scope of the question asked
+  * Trolling, insulting/derogatory comments, and personal or political attacks
+  * Promoting or spreading disinformation, lies, or conspiracy theories against a person, group, organisation, project, or community
+  * Public or private harassment
+  * Publishing others' private information, such as a physical or electronic address, without explicit permission
+  * Other conduct which could reasonably be considered inappropriate
 
 The goal of the standards and moderation guidelines outlined here is to build
 and maintain a respectful community. We ask that you don’t just aim to be
@@ -87,19 +84,11 @@ you should also report the message directly to Discord.
 
 These are the steps for upholding our community’s standards of conduct.
 
-1. Any member of the community may report any situation that violates the
-Adafruit Community Code of Conduct. All reports will be reviewed and
-investigated.
-2. If the behavior is an egregious violation, the community member who
-committed the violation may be banned immediately, without warning.
-3. Otherwise, moderators will first respond to such behavior with a warning.
-4. Moderators follow a soft "three strikes" policy - the community member may
-be given another chance, if they are receptive to the warning and change their
-behavior.
-5. If the community member is unreceptive or unreasonable when warned by a
-moderator, or the warning goes unheeded, they may be banned for a first or
-second offense. Repeated offenses will result in the community member being
-banned.
+  1. Any member of the community may report any situation that violates the Adafruit Community Code of Conduct All reports will be reviewed and investigated.
+  2. If the behavior is an egregious violation, the community member who committed the violation may be banned immediately, without warning.
+  3. Otherwise, moderators will first respond to such behavior with a warning.
+  4. Moderators follow a soft "three strikes" policy - the community member may be given another chance, if they are receptive to the warning and change their behavior.
+  5. If the community member is unreceptive or unreasonable when warned by a moderator, or the warning goes unheeded, they may be banned for a first or second offense. Repeated offenses will result in the community member being banned.
 
 ## Scope
 
