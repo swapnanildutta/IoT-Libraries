@@ -1,0 +1,67 @@
+{
+  "name": "hue2mqtt",
+  "version": "1.2.0",
+  "description": "Gateway between a Philips Hue bridge and MQTT",
+  "main": "index.js",
+  "bin": {
+    "hue2mqtt": "index.js"
+  },
+  "preferGlobal": true,
+  "scripts": {
+    "test": "camo-purge ; xo && sudo -E node_modules/.bin/nyc node_modules/.bin/mocha --exit test.js && node_modules/.bin/nyc report --reporter=text-lcov | node_modules/.bin/coveralls --force",
+    "lintfix": "xo --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hobbyquaker/hue2mqtt.js"
+  },
+  "keywords": [
+    "mqtt",
+    "smarthome",
+    "hue",
+    "philips"
+  ],
+  "author": "Sebastian Raff <hobbyquaker@gmail.com> (https://hobbyquaker.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hobbyquaker/hue2mqtt.js/issues"
+  },
+  "homepage": "https://github.com/hobbyquaker/hue2mqtt.js",
+  "dependencies": {
+    "mqtt": "^2.16.0",
+    "node-hue-api": "^2.4.2",
+    "obj-ease": "^1.0.1",
+    "persist-json": "^1.0.1",
+    "yalm": "^4.1.0",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {
+    "camo-purge": "latest",
+    "coveralls": "latest",
+    "hue-simulator": "github:hobbyquaker/hueSimulator",
+    "mocha": "latest",
+    "nyc": "latest",
+    "request": "latest",
+    "should": "latest",
+    "stream-splitter": "latest",
+    "xo": "latest"
+  },
+  "yargs": {
+    "boolean-negation": false
+  },
+  "nyc": {
+    "exclude": [
+      "test.js",
+      "config.js"
+    ]
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "xo": {
+    "space": 4,
+    "ignore": [
+      "test.js"
+    ]
+  }
+}
